@@ -1,0 +1,61 @@
+body{
+    background-color:#f9f9f9;
+    color: #09232e;
+    font-family: 'Sorts Mill Goudy', serif;
+}
+
+/*Así se pone comment*/
+
+h1, p{
+    color: #6f8b7c;
+
+}
+
+h3{ 
+    color:#133431;
+
+}
+
+.img1 {
+
+    width: 350px;
+    height: 280px; 
+    border-style:dotted;
+    border-width: 5px;
+    border-color:#6f8b7c;
+    margin-left: 50px; 
+    margin-bottom: 40px;
+    margin-top: 30px;
+    padding: 10px;  
+
+
+}
+
+.img2{
+
+    width: 300px;
+    height: 400px; 
+    border-style:dashed;
+    border-width: 5px;
+    border-color:#6f8b7c;
+    margin-left: 80px; 
+    margin-bottom: 40px;
+    margin-top: 30px;
+    padding: 10px;
+
+}
+
+footer{
+
+    background-color:#6f8b7c; 
+    
+
+    
+}
+
+small{
+
+    color:#f9f9f9;
+    padding-bottom: 0;
+
+}
